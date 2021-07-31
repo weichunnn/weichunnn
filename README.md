@@ -21,15 +21,7 @@ I'm a first year undergrad pursuing Computer Science with Data Science specializ
 
 ## ⚡ Recent Activity
 
-<div align="center">
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/weichunnn/growthlog/pull/1) in [weichunnn/growthlog](https://github.com/weichunnn/growthlog)
-2. 💪 Opened PR [#1](https://github.com/weichunnn/growthlog/pull/1) in [weichunnn/growthlog](https://github.com/weichunnn/growthlog)
-3. ❌ Closed PR [#102](https://github.com/MUM-Open-Source/eureka-web-app/pull/102) in [MUM-Open-Source/eureka-web-app](https://github.com/MUM-Open-Source/eureka-web-app)
-4. 💪 Opened PR [#103](https://github.com/MUM-Open-Source/eureka-web-app/pull/103) in [MUM-Open-Source/eureka-web-app](https://github.com/MUM-Open-Source/eureka-web-app)
-5. 💪 Opened PR [#102](https://github.com/MUM-Open-Source/eureka-web-app/pull/102) in [MUM-Open-Source/eureka-web-app](https://github.com/MUM-Open-Source/eureka-web-app)
-<!--END_SECTION:activity-->
-</div>
+<!--START_SECTION:activity-->
 
 ## Cool things inside this ReadME :)
 
