@@ -1,4 +1,6 @@
-<img  src="intro.gif"/>
+<div align="center">
+  <img src="intro.gif"/>
+</div>
 
 ## Who Am I
 
@@ -6,15 +8,15 @@ I'm a first year undergrad pursuing Computer Science with Data Science specializ
 
 ## 🧑‍🚀 Github Stats
 
-<div style="display:flex;">
-  <img height='200px' src="https://github-readme-stats.vercel.app/api?username=weichunnn&count_private=true&show_icons=true&theme=radical&locale=en&include_all_commits=true&border_radius=15"/>
-  <img height='200px'src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&border_radius=15"/>
+<div style="display:flex; justify-content:space-between;">
+  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=weichunnn&count_private=true&show_icons=true&theme=radical&locale=en&include_all_commits=true&border_radius=15&hide_border=true"/>
+  <img height='180em'src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&border_radius=15&hide_border=true"/>
 </div>
 
 ## ☄️ Github Streaks
 
 <div align="center">
-  <img height='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=weichunnn&theme=radical&hide_border=true" />
+  <img height='180em' src="https://github-readme-streak-stats.herokuapp.com/?user=weichunnn&theme=radical&hide_border=true" />
 </div>
 
 ## ⚡ Recent Activity
