@@ -22,11 +22,11 @@ I'm a first year undergrad pursuing Computer Science with Data Science specializ
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/weichunnn/growthlog/pull/2) in [weichunnn/growthlog](https://github.com/weichunnn/growthlog)
-2. 💪 Opened PR [#2](https://github.com/weichunnn/growthlog/pull/2) in [weichunnn/growthlog](https://github.com/weichunnn/growthlog)
-3. 🎉 Merged PR [#1](https://github.com/weichunnn/growthlog/pull/1) in [weichunnn/growthlog](https://github.com/weichunnn/growthlog)
-4. 💪 Opened PR [#1](https://github.com/weichunnn/growthlog/pull/1) in [weichunnn/growthlog](https://github.com/weichunnn/growthlog)
-5. ❌ Closed PR [#102](https://github.com/MUM-Open-Source/eureka-web-app/pull/102) in [MUM-Open-Source/eureka-web-app](https://github.com/MUM-Open-Source/eureka-web-app)
+1. 🎉 Merged PR [#22](https://github.com/weichunnn/projectlocal/pull/22) in [weichunnn/projectlocal](https://github.com/weichunnn/projectlocal)
+2. 🎉 Merged PR [#2](https://github.com/weichunnn/growthlog/pull/2) in [weichunnn/growthlog](https://github.com/weichunnn/growthlog)
+3. 💪 Opened PR [#2](https://github.com/weichunnn/growthlog/pull/2) in [weichunnn/growthlog](https://github.com/weichunnn/growthlog)
+4. 🎉 Merged PR [#1](https://github.com/weichunnn/growthlog/pull/1) in [weichunnn/growthlog](https://github.com/weichunnn/growthlog)
+5. 💪 Opened PR [#1](https://github.com/weichunnn/growthlog/pull/1) in [weichunnn/growthlog](https://github.com/weichunnn/growthlog)
 <!--END_SECTION:activity-->
 
 ## Cool things inside this ReadME :)
